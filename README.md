@@ -1,6 +1,6 @@
-# 🔐 KeyLock – Secure Encrypted File Sharing System
+# 🔐 CryptShare - Secure Encrypted File Sharing System
 
-KeyLock is a cyber‑security focused web application that enables **secure, encrypted file sharing** with **password protection** and **time‑bound access control**. The system ensures confidentiality and controlled access to sensitive files using cryptographic principles.
+CryptShare is a cyber‑security focused web application that enables **secure, encrypted file sharing** with **password protection** and **time‑bound access control**. The system ensures confidentiality and controlled access to sensitive files using cryptographic principles.
 
 
 ## 📌 Features
